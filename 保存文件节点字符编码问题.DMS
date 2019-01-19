@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<NodeCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Arthor>bushyao</Arthor>
+  <SQLiteIO>
+    <DbFullName>Tedd36a24b737420d955e2cd8628670b4.bcdb</DbFullName>
+    <ClearDataBeforeRunning>false</ClearDataBeforeRunning>
+    <DmsFullName>C:\Users\BC\Desktop\保存文件节点字符编码问题\保存文件节点字符编码问题.DMS</DmsFullName>
+  </SQLiteIO>
+  <FieldFormats>
+    <Formats>
+      <Justify>Right</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Integer</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Right</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx>{0:#.##}</DisplayFormatEx>
+      <DecimalPlaces>2</DecimalPlaces>
+      <DataType>Real</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Text</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Boolean</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx>{0:G}</DisplayFormatEx>
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>DateTime</DataType>
+      <Visible>true</Visible>
+    </Formats>
+  </FieldFormats>
+  <Title>Stream</Title>
+  <Subject>2019/1/11 9:44:07</Subject>
+  <Arthor2>u-PC</Arthor2>
+  <Manager />
+  <Company>DSS</Company>
+  <Category />
+  <Description />
+  <KeyWords />
+  <CheckIt>false</CheckIt>
+  <StreamID />
+  <ReportTitleName>样式一</ReportTitleName>
+  <ListReportTitles>PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8QXJyYXlPZlJlcG9ydFRpdGxlcyB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFJlcG9ydFRpdGxlcz4NCiAgICA8SXRlbXM+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT4xPC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD4xPC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezF9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjI8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjM8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT40PC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD4xPC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezF9LnsyfS57M30uezR9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjU8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfS57NH0uezV9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjY8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfS57NH0uezV9Lns2fSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgPC9JdGVtcz4NCiAgICA8TmFtZT7moLflvI/kuIA8L05hbWU+DQogIDwvUmVwb3J0VGl0bGVzPg0KICA8UmVwb3J0VGl0bGVzPg0KICAgIDxJdGVtcz4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjE8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjY8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX3jgIEgPC9UaXRsZUZvcm1hdD4NCiAgICAgIDwvUmVwb3J0VGl0bGVJdGVtPg0KICAgICAgPFJlcG9ydFRpdGxlSXRlbT4NCiAgICAgICAgPFRpdGxlR3JhZGU+MjwvVGl0bGVHcmFkZT4NCiAgICAgICAgPEJlZ2luSWQ+MDwvQmVnaW5JZD4NCiAgICAgICAgPFN0eWxlSWQ+NjwvU3R5bGVJZD4NCiAgICAgICAgPFRpdGxlRm9ybWF0Pih7Mn0pIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjM8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57M30uIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjQ8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57NH0pIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjU8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD4oezV9KSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT42PC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD41PC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezZ9LiA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgPC9JdGVtcz4NCiAgICA8TmFtZT7moLflvI/kuow8L05hbWU+DQogIDwvUmVwb3J0VGl0bGVzPg0KPC9BcnJheU9mUmVwb3J0VGl0bGVzPg==</ListReportTitles>
+  <AttachFiles />
+  <Price>0</Price>
+  <PrivilegeType>公开</PrivilegeType>
+  <Parameters>
+    <StreamParameter>
+      <Name>测试</Name>
+      <DataType>Text</DataType>
+      <ShowInUI>false</ShowInUI>
+      <ParaValue xsi:type="xsd:string">2018</ParaValue>
+      <ParagramEditor>TextBox</ParagramEditor>
+      <RunID>0</RunID>
+      <NodeGuids />
+    </StreamParameter>
+  </Parameters>
+  <Items>
+    <NodeBase xsi:type="NodeCache">
+      <Guid>a64bf391-dcf3-471b-9c35-abcbbe7f8410</Guid>
+      <CenterY>212.5</CenterY>
+      <CenterX>155</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>表格数据</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid />
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <JsonTextSaved>twXvOWsGkVyTlyaHZBddIC341DYR5fdKPPYajbuyb/EjmQexYOr+9eBTlUn2wwrv</JsonTextSaved>
+    </NodeBase>
+    <NodeBase xsi:type="NodeExport">
+      <Guid>94a9f457-a3b7-4b85-851c-86ee65bb666c</Guid>
+      <CenterY>212.5</CenterY>
+      <CenterX>365</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>保存为文件</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>a64bf391-dcf3-471b-9c35-abcbbe7f8410</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <FileFormat>TXT</FileFormat>
+      <ExportFilePath>$stream$\测试TXT\测试.txt</ExportFilePath>
+      <OpenFile>false</OpenFile>
+      <TableName>表单1</TableName>
+      <DeleteExist>false</DeleteExist>
+      <IsSingleSheet>true</IsSingleSheet>
+      <FieldNameXLS />
+      <FieldNameBat />
+      <TxtOverwrite>true</TxtOverwrite>
+      <TxtAppendTitle>true</TxtAppendTitle>
+      <TextSystem>Windows</TextSystem>
+      <EncodingSave>UTF8_NO_BOM</EncodingSave>
+    </NodeBase>
+    <NodeBase xsi:type="NodeTXTEx">
+      <Guid>cd9b33be-af27-4d33-ae6c-1aca67135d7a</Guid>
+      <CenterY>307.5</CenterY>
+      <CenterX>155</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>TXT+</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid />
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <FileName />
+      <ReadMode>Delimited</ReadMode>
+      <Filebody>false</Filebody>
+      <SplitterDelimited>,</SplitterDelimited>
+      <SplitterFixed>10,20</SplitterFixed>
+      <HasHeader>true</HasHeader>
+      <EncodingSave>UTF8_NO_BOM</EncodingSave>
+      <RemoveRept>false</RemoveRept>
+      <EnclosedInQuotes>false</EnclosedInQuotes>
+      <ReadOnlyFristRows>false</ReadOnlyFristRows>
+      <OnlyFristRows>10000</OnlyFristRows>
+      <ReadNullRow>false</ReadNullRow>
+      <FolderFiles>
+        <IsFolder>true</IsFolder>
+        <FullName>$stream$\测试TXT</FullName>
+      </FolderFiles>
+      <AllExt>true</AllExt>
+      <Ext>txt;csv;json;htm;html;xml</Ext>
+      <ExportFileName>false</ExportFileName>
+      <FullFileName>false</FullFileName>
+      <FieldFilters />
+    </NodeBase>
+    <NodeBase xsi:type="NodeStreamCollection">
+      <Guid>229c388c-0157-41f2-84af-0c4fd81c6bb9</Guid>
+      <CenterY>302.5</CenterY>
+      <CenterX>310</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>文件收集器</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>cd9b33be-af27-4d33-ae6c-1aca67135d7a</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <BatchEvalParameterName />
+      <BatchEvalParameterValues />
+      <InputNodes>
+        <SCInputNode>
+          <Text />
+          <gid>cd9b33be-af27-4d33-ae6c-1aca67135d7a</gid>
+          <Text2Stream>false</Text2Stream>
+        </SCInputNode>
+      </InputNodes>
+      <NameAsBefore>false</NameAsBefore>
+      <ByFieldMode>true</ByFieldMode>
+      <FieldNameMode>OnlyFieldName</FieldNameMode>
+    </NodeBase>
+    <NodeBase xsi:type="NodeHtmlReport">
+      <Guid>22ac17f5-47e7-46d8-9cac-380dc0cb0f3f</Guid>
+      <CenterY>257.5</CenterY>
+      <CenterX>560</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>浏览报告</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>8bb3cae7-ba4e-4d20-b639-86ef5cbed449</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <ImageMaxWidth>1100</ImageMaxWidth>
+      <PageWidth>1100</PageWidth>
+      <MarkDownText />
+      <ReportMode>Default</ReportMode>
+      <NameColumnType>Title</NameColumnType>
+      <HasImage>true</HasImage>
+      <HasDescription>true</HasDescription>
+      <ExportTitleInfo>false</ExportTitleInfo>
+      <ExportTitleFieldName>Name</ExportTitleFieldName>
+      <TitleGrade>1</TitleGrade>
+      <ExportStreamFormat>HTML_TAG</ExportStreamFormat>
+      <ExportTitle>false</ExportTitle>
+      <IsTempletefile>false</IsTempletefile>
+      <Templetefile />
+      <Templete />
+      <AutoExpendTable>true</AutoExpendTable>
+      <AcceptEnter>true</AcceptEnter>
+    </NodeBase>
+    <NodeBase xsi:type="NodeStreamRunner">
+      <Guid>8bb3cae7-ba4e-4d20-b639-86ef5cbed449</Guid>
+      <CenterY>255</CenterY>
+      <CenterX>450</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>顺序运行器</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>94a9f457-a3b7-4b85-851c-86ee65bb666c</guid>
+        <guid>229c388c-0157-41f2-84af-0c4fd81c6bb9</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <BatchEvalParameterName />
+      <BatchEvalParameterValues />
+      <FirstOne>false</FirstOne>
+    </NodeBase>
+  </Items>
+  <OffsetX>0</OffsetX>
+  <OffsetY>0</OffsetY>
+  <Scale>1</Scale>
+</NodeCollection>
