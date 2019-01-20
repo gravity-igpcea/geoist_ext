@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # pass in Python3.6
+
 import sys, json
 import pandas as pd
 import matplotlib.pyplot as plt
