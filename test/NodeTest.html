@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html style="height: 100%; margin: 0; width: 100%">
+<head>
+    <style>
+        body {
+            overflow: hidden;
+        }
+
+        input {
+            width: 200px;
+        }
+
+        select {
+            width: 203px;
+        }
+
+        table {
+            width: 100%;
+            font-size: 12px;
+        }
+
+        td {
+            height: 30px;
+        }
+    </style>
+
+    <script type="text/javascript" src="js\jquery.js"></script>
+    <script type="text/javascript">
+        function GetData() {
+
+            var anObject = new Object();
+            anObject.pars = new Object();
+            anObject.pars.title = $("#title").val();
+            anObject.pars.desc = $("#desc").val();
+
+            anObject.allfields = true;
+            anObject.names = new Object();
+            anObject.names.q = $("#fieldQ").find("option:selected").text();
+            anObject.names.f = $("#fieldF").find("option:selected").text();
+
+            //var anObject = { "title": title, "desc": desc, "fieldname": fieldname };
+
+            return JSON.stringify(anObject);
+        }
+
+        function SetData(txt, fieldnames) {
+
+            var field1 = '';
+            var field2 = '';
+            if (txt !== null && txt !== '') {
+                var obj = JSON.parse(txt);
+
+                if (obj !== null) {
+                    $("#title").val(obj.pars.title);
+                    $("#desc").val(obj.pars.desc);
+
+                    field1 = obj.names.q;
+                    field2 = obj.names.f;
+                }
+            }
+
+            SetFields(fieldnames, "fieldQ", field1);
+            SetFields(fieldnames, "fieldF", field2);
+        }
+
+        function SetFields(fieldnames, elementId, fieldvalue) {
+
+            var id = "#" + elementId;
+
+            $(id).empty();
+            var arr = fieldnames.split(";");
+            var selector = $(id);
+            arr.forEach(function (value, index) {
+                var opt = new Option(value, index);
+                if (value === fieldvalue) opt.selected = true;
+                selector.append(opt);
+            });
+        }
+
+    </script>
+</head>
+<body scroll="no" style="height: 100%; margin: 0; width: 100%">
+    <table>
+        <tr>
+            <td style="width:70px">名称</td>
+            <td><input id="title" type="text" value="点1"></td>
+        </tr>
+        <tr>
+            <td>描述</td>
+            <td><input id="desc" type="text" value="测点"></td>
+        </tr>
+
+        <tr>
+            <td>字段Q</td>
+            <td><select id="fieldQ"></select> </td>
+        </tr>
+        
+        <tr>
+            <td>字段F</td>
+            <td><select id="fieldF"></select> </td>
+        </tr>
+    </table>
+</body>
+</html>

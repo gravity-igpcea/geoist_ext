@@ -1,0 +1,57 @@
+{
+  "GroupName": "Demo",
+  "Name": "Python2",
+  "SystemToolTip": "python2测试",
+  "Version": "2.0",
+  "Author": "bushyao",
+  "ScriptFile": "NodeTest27.py",
+  "InputTables": [
+    {
+      "Name": "magdata",
+      "Title": "井位",
+      "Fields": [
+        {
+          "Name": "Longitude",
+          "Title": "经度(度)",
+          "Type": ""
+        },
+        {
+          "Name": "Latitude",
+          "Title": "经度(度)",
+          "Type": "real"
+        }
+      ]
+    },
+    {
+      "Name": "magdata2",
+      "Title": "震中",
+      "Fields": [
+        {
+          "Name": "Longitude",
+          "Title": "经度(度)",
+          "Type": "string"
+        },
+        {
+          "Name": "Latitude",
+          "Title": "经度(度)",
+          "Type": "string"
+        }
+      ]
+    }
+  ],
+  "OutputFields": [
+    {
+      "Name": "月份",
+      "Type": "string"
+    },
+    {
+      "Name": "蒸发量",
+      "Type": "string"
+    },
+    {
+      "Name": "降水量",
+      "Type": "string"
+    }
+  ],
+  "ResultFile":"result.json"
+}
