@@ -1,0 +1,30 @@
+[
+    {
+      "id": 0,
+      "name": "文本串",
+	  "type":"TXT",
+      "content":"这是一段测试文本",
+	  "desc":"这是描述"
+    },
+	{
+      "id": 1,
+      "name": "文件",
+	  "type":"FILE",
+      "content":"D:\\MyProgram\\RDMS\\PPTAnalysis\\binX\\Plugin\\test\\tmpData\\asia150dpi.png",
+	  "desc":"图片哦"
+    },
+	{
+      "id": 2,
+      "name": "官方文档",
+	  "type":"url",
+      "content":"https://datist.readthedocs.io/zh_CN/latest/advance/NodeExpend.html#id8",
+	  "desc":"文档"
+    },
+	{
+      "id": 3,
+      "name": "输出的二维表",
+	  "type":"tab",
+      "content":"D:\\MyProgram\\RDMS\\PPTAnalysis\\binX\\Plugin\\test\\tmpData\\tmp5DAC.csv",
+	  "desc":"二维表"
+    },
+]
