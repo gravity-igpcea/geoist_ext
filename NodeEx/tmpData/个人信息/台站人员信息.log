@@ -1,0 +1,19 @@
+【模板自检】
+模板	个人信息表_Book1
+		合格!	38ms (0.04s)
+
+		名称--(0,0)                          --HasSubstring2(B22,"名称") && C22 ="" && D22 ="" 
+		获得奖项级别--(0,0)                      --HasSubstring2(E22,"获得奖项级别") && F22 ="" 
+		排名--(0,0)                          --HasSubstring2(G22,"排名") 
+		备注_情况说明--(0,0)                     --HasSubstring2(H22,"备注情况说明") && I22 ="" 
+C:\Users\bc-THINK\Desktop\新建文件夹\Data\台站人员信息.xlsx|个人信息表<-【个人信息表_Book1】
+成功解析|C:\Users\bc-THINK\Desktop\新建文件夹\Data\台站人员信息.xlsx|个人信息表
+【解析报告】
+读取表单方式:	一个
+日志文件:	C:\Users\bc-THINK\Desktop\新建文件夹\台站人员信息.log
+共解析文件数1个，入库记录2条。
+
+解析文件列表:
+序号	文件	记录数
+1	C:\Users\bc-THINK\Desktop\新建文件夹\Data\台站人员信息.xlsx	2条
+
