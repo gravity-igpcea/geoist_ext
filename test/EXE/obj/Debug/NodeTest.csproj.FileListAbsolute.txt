@@ -1,6 +1,0 @@
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\bin\Debug\NodeTest.exe.config
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\bin\Debug\NodeTest.exe
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\bin\Debug\NodeTest.pdb
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\obj\Debug\NodeTest.exe
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\obj\Debug\NodeTest.pdb
-D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\EXE\obj\Debug\NodeTest.csprojResolveAssemblyReference.cache
