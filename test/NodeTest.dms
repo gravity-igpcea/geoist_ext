@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<NodeCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Arthor>bushyao</Arthor>
+  <SQLiteIO>
+    <DbFullName>Tab57d293a9d042448838486b1a6c86cf.bcdb</DbFullName>
+    <ClearDataBeforeRunning>false</ClearDataBeforeRunning>
+    <DmsFullName>D:\MyProgram\RDMS\PPTAnalysis\binX\Plugin\test\NodeTest.dms</DmsFullName>
+  </SQLiteIO>
+  <FieldFormats>
+    <Formats>
+      <Justify>Right</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Integer</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Right</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx>{0:#.##}</DisplayFormatEx>
+      <DecimalPlaces>2</DecimalPlaces>
+      <DataType>Real</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Text</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx />
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>Boolean</DataType>
+      <Visible>true</Visible>
+    </Formats>
+    <Formats>
+      <Justify>Auto</Justify>
+      <ColumnWidth>-1</ColumnWidth>
+      <DisplayFormatEx>{0:G}</DisplayFormatEx>
+      <DecimalPlaces>-1</DecimalPlaces>
+      <DataType>DateTime</DataType>
+      <Visible>true</Visible>
+    </Formats>
+  </FieldFormats>
+  <Title>Stream</Title>
+  <Subject>2019/1/8 16:30:19</Subject>
+  <Arthor2>LAPTOP-JSDT6ECB</Arthor2>
+  <Manager />
+  <Company>DSS</Company>
+  <Category />
+  <Description />
+  <KeyWords />
+  <CheckIt>true</CheckIt>
+  <StreamID />
+  <ReportTitleName>样式一</ReportTitleName>
+  <ListReportTitles>PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8QXJyYXlPZlJlcG9ydFRpdGxlcyB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFJlcG9ydFRpdGxlcz4NCiAgICA8SXRlbXM+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT4xPC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD4xPC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezF9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjI8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjM8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT40PC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD4xPC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezF9LnsyfS57M30uezR9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjU8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfS57NH0uezV9IDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjY8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX0uezJ9LnszfS57NH0uezV9Lns2fSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgPC9JdGVtcz4NCiAgICA8TmFtZT7moLflvI/kuIA8L05hbWU+DQogIDwvUmVwb3J0VGl0bGVzPg0KICA8UmVwb3J0VGl0bGVzPg0KICAgIDxJdGVtcz4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjE8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjY8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57MX3jgIEgPC9UaXRsZUZvcm1hdD4NCiAgICAgIDwvUmVwb3J0VGl0bGVJdGVtPg0KICAgICAgPFJlcG9ydFRpdGxlSXRlbT4NCiAgICAgICAgPFRpdGxlR3JhZGU+MjwvVGl0bGVHcmFkZT4NCiAgICAgICAgPEJlZ2luSWQ+MDwvQmVnaW5JZD4NCiAgICAgICAgPFN0eWxlSWQ+NjwvU3R5bGVJZD4NCiAgICAgICAgPFRpdGxlRm9ybWF0Pih7Mn0pIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjM8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57M30uIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjQ8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD57NH0pIDwvVGl0bGVGb3JtYXQ+DQogICAgICA8L1JlcG9ydFRpdGxlSXRlbT4NCiAgICAgIDxSZXBvcnRUaXRsZUl0ZW0+DQogICAgICAgIDxUaXRsZUdyYWRlPjU8L1RpdGxlR3JhZGU+DQogICAgICAgIDxCZWdpbklkPjA8L0JlZ2luSWQ+DQogICAgICAgIDxTdHlsZUlkPjE8L1N0eWxlSWQ+DQogICAgICAgIDxUaXRsZUZvcm1hdD4oezV9KSA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgICA8UmVwb3J0VGl0bGVJdGVtPg0KICAgICAgICA8VGl0bGVHcmFkZT42PC9UaXRsZUdyYWRlPg0KICAgICAgICA8QmVnaW5JZD4wPC9CZWdpbklkPg0KICAgICAgICA8U3R5bGVJZD41PC9TdHlsZUlkPg0KICAgICAgICA8VGl0bGVGb3JtYXQ+ezZ9LiA8L1RpdGxlRm9ybWF0Pg0KICAgICAgPC9SZXBvcnRUaXRsZUl0ZW0+DQogICAgPC9JdGVtcz4NCiAgICA8TmFtZT7moLflvI/kuow8L05hbWU+DQogIDwvUmVwb3J0VGl0bGVzPg0KPC9BcnJheU9mUmVwb3J0VGl0bGVzPg==</ListReportTitles>
+  <AttachFiles />
+  <Price>0</Price>
+  <PrivilegeType>公开</PrivilegeType>
+  <Parameters>
+    <StreamParameter>
+      <Name>x</Name>
+      <DataType>Text</DataType>
+      <ShowInUI>false</ShowInUI>
+      <ParaValue xsi:type="xsd:string">1</ParaValue>
+      <ParagramEditor>TextBox</ParagramEditor>
+      <RunID>0</RunID>
+      <NodeGuids />
+    </StreamParameter>
+    <StreamParameter>
+      <Name>xx</Name>
+      <DataType>Text</DataType>
+      <ShowInUI>false</ShowInUI>
+      <ParaValue xsi:type="xsd:string">2,3</ParaValue>
+      <ParagramEditor>TextBox</ParagramEditor>
+      <RunID>0</RunID>
+      <NodeGuids />
+    </StreamParameter>
+  </Parameters>
+  <Items>
+    <NodeBase xsi:type="NodePythonPlugin2">
+      <Guid>5603280d-51e1-4017-8fd5-4ba9a47dc0cb</Guid>
+      <CenterY>277.5</CenterY>
+      <CenterX>410</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>Python2</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>65381ff5-4ccb-4210-8b1b-e2d28f578b8a</guid>
+        <guid>37606171-1060-4630-b1fc-f536f8c98964</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <NodeParameters>{"pars":{"title":"Exe","desc":"文字"},"allfields":true,"names":{"q":"经度","f":"经度"}}</NodeParameters>
+      <PluginPath>test</PluginPath>
+      <Author>bushyao</Author>
+      <NodeExFile>NodeTest.nde</NodeExFile>
+      <Isbase64>false</Isbase64>
+      <ExportTable>false</ExportTable>
+      <HasViewer>true</HasViewer>
+      <FileResult>false</FileResult>
+      <InputItems>
+        <PNodeItemSave>
+          <NodeName>magdata</NodeName>
+          <NodeId>37606171-1060-4630-b1fc-f536f8c98964</NodeId>
+          <FieldPairs>
+            <FieldNamePair>
+              <PriorFieldName>月份</PriorFieldName>
+              <FieldName>Longitude</FieldName>
+            </FieldNamePair>
+            <FieldNamePair>
+              <PriorFieldName>降水量</PriorFieldName>
+              <FieldName>Latitude</FieldName>
+            </FieldNamePair>
+          </FieldPairs>
+        </PNodeItemSave>
+        <PNodeItemSave>
+          <NodeName>magdata2</NodeName>
+          <NodeId>65381ff5-4ccb-4210-8b1b-e2d28f578b8a</NodeId>
+          <FieldPairs>
+            <FieldNamePair>
+              <PriorFieldName>经度</PriorFieldName>
+              <FieldName>Longitude</FieldName>
+            </FieldNamePair>
+            <FieldNamePair>
+              <PriorFieldName>纬度</PriorFieldName>
+              <FieldName>Latitude</FieldName>
+            </FieldNamePair>
+          </FieldPairs>
+        </PNodeItemSave>
+      </InputItems>
+    </NodeBase>
+    <NodeBase xsi:type="NodeCache">
+      <Guid>37606171-1060-4630-b1fc-f536f8c98964</Guid>
+      <CenterY>227.5</CenterY>
+      <CenterX>125</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title>降水量2</Title>
+      <Name>表格数据</Name>
+      <ShowName>false</ShowName>
+      <PriorNodeGuid />
+      <CacheIt>true</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <JsonTextSaved>twXvOWsGkVyTlyaHZBddIE5SEbL/9cWG0qFLluVT34MdbbWGMdq1aQUVye11aPJ6fJFoprH50T/EHmxvvcUrRLIWuadtG0sAU/lKmx1qezz54K4I81XElS3ijp7JbsY0YWqnvKvu6GSqUZvgtI1pV/E256/29QJaIVWndNC4FybKNrKDUD31v0PumIpbHcRPKYhHoddeTMDe9TcPmn9lbJ3Kf7lhBtL0CgFiAml03KaJuHhE+hTzsL+PmGtQLVtDNRofBPQ8xnkCKF5fI+JlzHU1YBJFZi7tEkIQzemp57bnd0RyN8pvW1d5CbTfqHZtPmCTUQucR1dxg+r32pe1F2aHc4UuCt4ihi5PmuDxdChNm5SmZP+VIonF0TUiAVpvcBlSfMs2OmwgyCwPw30um5Oc62bZBu+JlNoA2vqnu4AB6vsM24/Wdlqd3Ke40WCW7BIyTDx/ff99b3l/pmxgJiE+vX0fQNivWoMFKJ2a10SW60p2wfsRGn+AjO/UwZoXFFTExhwBAwtcH+7NSp/mGHNMR6kF2zYqjgqxtmkd3l3TX4lY/xTFwB3ZFHnAOJkXi6G4ib2Y8LwIsy97zGsZymRbZbaIqDRunZKNWZt2Oj+EhWwbxCn4VLFP8atYOOFXgL+sQf9EM952QVOpayr9R97QvaIGU0gJiXXZTuI4X593XArzIc1ajlFlNpWqVbZ5Hxyf+Ji4w7drX7GZcvRk5ATBJHJ+CqzTkGhkf4FmbbXBofJzzauF3TjENNlUy7SlIicR2kv0PHKbmFAD98JRCE/oajbKWMJWLQQhujRSFDXKsvke4i+psiexvFiP2DlBm+gHQ87qdwViaNLuIjZCfB3s8SV4sl0PfKhA6nZW3CyMcuxG3PaijPkTADHruVC+2FZ+6Bz1tmU2RMysScunKN933txAcugbgxUC+6HV+1ESGkNpGVCakMK83N2vUgmU/0pyRPEJ/p90GhggAzlh4lsrT1A8wvEUyaLhebTS2MRghD43iOdPprUv825gbrnzlr9dt0ZKH1jAc3EMbXkXF61WolRGhzIihBu9K6UnbF2N2OzoVzkNKnyv2plafheSoiiknPxhE/ReFj6pSn8LD/95hmq47+1G3lR6L+CRuCbf9RkChtqcjOAbpdAZDWeP1dJEs9L7WUpc9ap4gckLuEKu/owiUcJDIO3RlZ3ZIHGdJAxnVjtryAtRBO3rE5b6Z9pNd+5dmBO+C9zmmiLW+9NoaAOQb81rnn9KwJ31U81Qv84Jjg/K0UIcphXIT8PIZfN8R8V31eduiCf/og+wBSkivuwbF2oIlCu95pLCIyBEVPufR1yo6DpQRJep9TiLlqRQFZOH67Z6WKtC3/POHvqFIsxxiplMnIA03U0RxivFNHHxQLid+P2KAHddVsva2+w/sMXj33APL0fx/OQ/r2IFAB5Iy8dn76FtVg/9x97Jnabt6eO0X/gYeyUHdIfxi6uZQrFo8u0JfATv9wmVwFFEdSiE1G58g2yS4TSn1wkmdZQ5EZCsjzXcTqEFmZ5F2jiWc82VbhWtxe86e6nctA==</JsonTextSaved>
+    </NodeBase>
+    <NodeBase xsi:type="NodeTable">
+      <Guid>4617219a-da21-4e28-a9c3-4578d0ff722a</Guid>
+      <CenterY>277.5</CenterY>
+      <CenterX>555</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>浏览数据</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>5603280d-51e1-4017-8fd5-4ba9a47dc0cb</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <FieldFormats />
+      <AutoWidthFit>true</AutoWidthFit>
+      <Expression />
+    </NodeBase>
+    <NodeBase xsi:type="NodeCache">
+      <Guid>55d9dd7a-1d94-48df-a968-c045be433d1d</Guid>
+      <CenterY>327.5</CenterY>
+      <CenterX>125</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title>经纬</Title>
+      <Name>表格数据</Name>
+      <ShowName>false</ShowName>
+      <PriorNodeGuid />
+      <CacheIt>true</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <JsonTextSaved>twXvOWsGkVyTlyaHZBddIBLXd2PVBKnVf3DAi857x7t2IIH4OEfen+BrIJQBHI1JaVdqRUKSpHA9xmIeM0rA7U4OAM2bEbpY/VU18D7c6Mako0PVeIVcxw/v+BfUtjSLz3o3I4URHt//TQMKwEk0ytveKcbxyvsEh8rcpnsdrrnqu+2JELtHpb6vxT0JSPlGIhDnOJCQSUla0BNztJFdCYRL7xv0E1beV9J9uhC4yH3X2D4urRzDqENWZVeveUbGbYB3wN59WD+An+N4vYRTvhOpBuHyowzlZnI2jQC3XtQCkSqEGlaeVHRpuRJIfa1/m8qXMhgJLi2NU09XUDEIjFNeGCBCuqTMLkAp9dQb0oc3Mw0hpAhay+00Cy4ahL85HEjtu97LzIY5lKlVn/8QfSg4JY+uG3ssGt8L+5fNHQOT5I6EPMKpZ81jomz89oaeYcEd8mDDCiCbUEK9g+kISrtWIeyAN8lKVUoHRnKf573iark66aVS4Br3Irkq5lMtMvcNngwAZsb+qAFlbtq0Q+FWyYlFRmICWVxXfSu/VZLH0DjNNkOA/dn2+81Ibj6N8qbrUQNLbPCGcCB9XULQHs5oUqQ0Rixx1wXrwjSo+IZJ6KFVHsdKBIuYGr4oF0E6ExaM5ICjeRaUjYU6SOqZ6rIo7PTMb5q+MtYzLHOMmdT5JAl90UPqBup4QconRH+k51heiFtbPhYE7qO1v+RWIAEvO1WDAKjxl+Rl3X9EIqktqC+5cAt63Cl0TaENkjnutNwKHKgj7rMDB69rgnoBk08kELqjT/4ez37LKeeT9modPztpOe4PGxiz8DAazqU2XgJrGB+oy2m84/DaS4/noUogIDzvVdfdjxWG5DtJCFE/K/jNyjSQWTvLaQzTllP50fMzhvKEiZbQUwhJr7xdqTqhiQIS27kUba0bceuLwBGok+mlR3jY4IhhcqoQohlq6hG9lIBQlfctE7Bw/mG3Y7EmzRATh8TNuS8mHLXieQD+mDPvvhuN31F9eqyUOVAU</JsonTextSaved>
+    </NodeBase>
+    <NodeBase xsi:type="NodeFilter">
+      <Guid>65381ff5-4ccb-4210-8b1b-e2d28f578b8a</Guid>
+      <CenterY>327.5</CenterY>
+      <CenterX>250</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>过滤</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>55d9dd7a-1d94-48df-a968-c045be433d1d</guid>
+      </PriorNodeGuid>
+      <CacheIt>false</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <FieldFilters>
+        <FieldFilter>
+          <FieldName>经度</FieldName>
+          <Filte>true</Filte>
+          <NewFieldName>经度</NewFieldName>
+          <NewDataType>Text</NewDataType>
+        </FieldFilter>
+        <FieldFilter>
+          <FieldName>纬度</FieldName>
+          <Filte>true</Filte>
+          <NewFieldName>纬度</NewFieldName>
+          <NewDataType>Text</NewDataType>
+        </FieldFilter>
+      </FieldFilters>
+      <DefaultFilte>true</DefaultFilte>
+      <IsStandardMode>false</IsStandardMode>
+    </NodeBase>
+    <NodeBase xsi:type="NodeStreamCollection">
+      <Guid>67ab8013-e54f-4506-bd06-b32a1101f27c</Guid>
+      <CenterY>390.40000000000003</CenterY>
+      <CenterX>502.40000000000003</CenterX>
+      <Description />
+      <ToolTip />
+      <EditMode>Edit</EditMode>
+      <Title />
+      <Name>文件收集器</Name>
+      <ShowName>true</ShowName>
+      <PriorNodeGuid>
+        <guid>5603280d-51e1-4017-8fd5-4ba9a47dc0cb</guid>
+      </PriorNodeGuid>
+      <CacheIt>true</CacheIt>
+      <DefaultEvalIt>false</DefaultEvalIt>
+      <IsExpressionDescription>false</IsExpressionDescription>
+      <BatchEvalParameterName>x</BatchEvalParameterName>
+      <BatchEvalParameterValues>$xx</BatchEvalParameterValues>
+      <InputNodes>
+        <SCInputNode>
+          <Text />
+          <gid>5603280d-51e1-4017-8fd5-4ba9a47dc0cb</gid>
+          <Text2Stream>false</Text2Stream>
+        </SCInputNode>
+      </InputNodes>
+      <NameAsBefore>false</NameAsBefore>
+      <ByFieldMode>true</ByFieldMode>
+      <FieldNameMode>OnlyFieldName</FieldNameMode>
+    </NodeBase>
+  </Items>
+  <OffsetX>0</OffsetX>
+  <OffsetY>0</OffsetY>
+  <Scale>1</Scale>
+</NodeCollection>
